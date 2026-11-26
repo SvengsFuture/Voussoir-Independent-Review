@@ -52,6 +52,10 @@ https://github.com/Tetra-Safe-AI/TetraSafe-Keystone-Review-Demo/blob/main/VOUSSO
 
 This package does not change those results.
 
+## Attribution clarification (November 25, 2026)
+
+The acknowledgment wording concerning Stanislav Levarsky in the [Keystone acknowledgments](https://github.com/Tetra-Safe-AI/TetraSafe-Keystone-Review-Demo#acknowledgments-and-collaborative-contributions), including the operator handoff passage, was confirmed by him on November 25, 2026, after the Level One package was first published on November 24. The frozen case studies' reference to agreed wording should be read with this chronology; it does not establish prior approval. The linked acknowledgments also record the approved credit for the interrupted commit scenario examined in B6-K3. The frozen packages and experimental findings remain unchanged.
+
 ## Contact
 
 Stephen Gettel ([SvengsFuture](https://github.com/SvengsFuture)).
